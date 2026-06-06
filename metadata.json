@@ -1,0 +1,6 @@
+{
+  "name": "SUSI Community",
+  "description": "Impact platform for Suara Solusi Indonesia. Powering community bulletin boards, interactive maps, skill donation, and real-time social impact metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
